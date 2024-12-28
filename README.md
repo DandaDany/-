@@ -20,7 +20,7 @@
   - matplotlib
 
 
-# 安裝依賴
+## 安裝套件
 ```
 pip install -r requirements.txt
 ```
